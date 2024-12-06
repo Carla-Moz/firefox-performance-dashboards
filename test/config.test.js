@@ -47,7 +47,7 @@ it('Query info', () => {
           platform: 'linux1804-64-shippable-qr',
         },
         {
-          color: '#4ecdc4',
+          color: '#00FFFF',
           label: 'Chrome',
           frameworkId: 13,
           suite: 'wasm-misc',
@@ -59,7 +59,7 @@ it('Query info', () => {
           platform: 'linux64-shippable',
         },
         {
-          color: '#4ecdc4',
+          color: '#00FFFF',
           label: 'Chrome',
           frameworkId: 13,
           suite: 'wasm-misc',

@@ -19,7 +19,7 @@ const PALETTE = {
   yellow: '#ebc23f',
   violet: '#a66e97',
   pink: '#fe939e',
-  cyan: '#4ecdc4',
+  cyan: '#00FFFF',
 };
 
 export const AWFY_BENCHMARKS = {
