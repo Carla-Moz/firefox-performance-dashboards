@@ -19,6 +19,7 @@ const PALETTE = {
   yellow: '#ebc23f',
   violet: '#a66e97',
   pink: '#fe939e',
+  cyan: '#4ecdc4',
 };
 
 export const AWFY_BENCHMARKS = {
@@ -91,7 +92,6 @@ const DESKTOP_APPS = {
     label: 'Chrome',
     color: PALETTE.cyan,
   },
-
   safari_tp: {
     name: 'safari-tp',
     label: 'Safari Technology Preview',
